@@ -1,5 +1,7 @@
 # 10 extremely useful tips to how to design online portfolio design online portfolio in 2020
-<link rel="stylesheet" type="text/css" href="/screencapture.png">
+<p align="center">
+<img src="https://raw.githubusercontent.com/rishigole42/10-extremely-useful-tips-to-how-to-design-online-portfolio-design-online-portfolio-in-2020/master/demo.png" width="100%">
+</p>
 
 #check our Previous Project - 
 
